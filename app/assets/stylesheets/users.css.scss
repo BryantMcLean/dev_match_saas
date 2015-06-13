@@ -27,8 +27,14 @@
 }
 
 .profile-img{
+  height: 128px;
+  width: 128px;
   border-radius: 50%;
   -webkit-box-shadow: 8px 8px 5px 0px rgba(50, 50, 50, 0.75);
   -moz-box-shadow: 8px 8px 5px 0px rgba(50, 50, 50, 0.75);
   box-shadow: 8px 8px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+.well.white-{
+  background-color: white;
 }
